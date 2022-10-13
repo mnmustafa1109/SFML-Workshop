@@ -54,4 +54,4 @@ else()
 endif()
 
 source_group("src" FILES ${APP_SRC_FILES})
-source_group("include" FILES ${APP_INCLUDE_DIR}/*.h)
+source_group("include" FILES ${APP_INCLUDE_DIR}/*.hpp)
