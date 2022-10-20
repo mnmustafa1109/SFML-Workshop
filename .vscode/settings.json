@@ -1,22 +1,8 @@
-// Place your settings in this file to overwrite default and user settings.
 {
-    "files.exclude": {
-        "Development/Project/.dependencies": true,
-        "Development/Project/.objects": true
-    },
-    "files.associations": {
-        "iostream": "cpp"
-    },
-    "C_Cpp.intelliSenseEngine": "Tag Parser",
     "makefile.launchConfigurations": [
         {
-            "cwd": "/home/mnmustafa1109/sfml-starter-master/Build/Linux/Debug",
-            "binaryPath": "/home/mnmustafa1109/sfml-starter-master/Build/Linux/Debug/Game.out",
-            "binaryArgs": []
-        },
-        {
-            "cwd": "/home/mnmustafa1109/sfml-starter-master/Build/Linux/Release",
-            "binaryPath": "/home/mnmustafa1109/sfml-starter-master/Build/Linux/Release/Game.out",
+            "cwd": "/home/mnmustafa1109/SFML-Workshop/Build/Linux/Release",
+            "binaryPath": "/home/mnmustafa1109/SFML-Workshop/Build/Linux/Release/Game.out",
             "binaryArgs": []
         }
     ]
