@@ -1,4 +1,8 @@
-.*/
-bin/
-build/
-lib/
+.vs
+Win32/
+x64/
+*.user
+packages/
+Build/
+Development/Project/.dependencies/
+Development/Project/.objects/

@@ -1,1 +1,0 @@
-sudo apt install -y git libflac-dev libflac++-dev clang cmake xorg-dev udev libudev-dev libopenal-dev  libvorbis-dev
