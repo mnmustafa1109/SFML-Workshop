@@ -1,7 +1,6 @@
-sudo su
-apt-get install libsfml-dev
+sudo apt-get install libsfml-dev
 cd Development/Librairies/Linux/SFML/
 cd include
-cp -r SFML /usr/include/
+sudo cp -r SFML /usr/include/
 cd ..
-cp lib/* /usr/lib/
+sudo cp lib/* /usr/lib/
